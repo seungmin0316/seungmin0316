@@ -1,7 +1,4 @@
-## welcome to GitHub👋
-
-<!--
-**seungmin0316/seungmin0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
