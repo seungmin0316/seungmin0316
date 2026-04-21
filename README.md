@@ -1,4 +1,4 @@
-## Hi there 👋
+## welcome to GitHub👋
 
 <!--
 **seungmin0316/seungmin0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
